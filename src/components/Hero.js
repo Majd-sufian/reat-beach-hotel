@@ -9,3 +9,7 @@ export default function Hero({children, hero}) {
         </div>
     )
 }
+
+Hero.defaultProps = {
+    hero: "defaultHero"
+}
