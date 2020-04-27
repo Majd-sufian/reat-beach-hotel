@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { FaCocktail, FaHiking, FaShuttleVan, FaBeer, FaBreadSlice } from 'react-icons/fa'
+import { FaCocktail, FaHiking, FaShuttleVan, FaBeer } from 'react-icons/fa'
 import Title from '../components/Title'
 
 
