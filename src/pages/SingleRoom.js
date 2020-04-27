@@ -30,8 +30,10 @@ export default class singleRoom extends Component {
         }
         const {name,description, capacity, size,price,extras,breakfast,pets,images
           } = room;
+        const [mainImg, ...defaultImg] = images
+        console.log(defaultImg)  
         return (
- 
+            <>
             <StyledHero img={images[0]}>
                 <Banner title={`${name} room`}>
                     <Link to="/rooms" className="btn-primary">
@@ -39,6 +41,15 @@ export default class singleRoom extends Component {
                     </Link>
                 </Banner>
             </StyledHero>
+            <section className="single-room">
+                <div className="single-room-images">
+                    {defaultImg.map((item, index) => {
+                        return  <img src={item} key={index}/>
+                    })}
+                </div>
+
+            </section>
+            </>
         )
     }
 }
