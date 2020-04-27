@@ -22,7 +22,7 @@ export default class Services extends Component {
                 info: 'This guy is great for the practical side of things regarding React, and Vishwas at Codevolution is excellent for the fundamental'
             },
             {
-                icon:<FaBreadSlice/>,
+                icon: <FaBeer />,
                 title:'Strongest Beer ',
                 info: 'This guy is great for the practical side of things regarding React, and Vishwas at Codevolution is excellent for the fundamental'
             }
