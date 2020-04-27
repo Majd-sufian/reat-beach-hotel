@@ -27,12 +27,17 @@ export default class singleRoom extends Component {
                 </div>
             )
         }
-        
+        const {name,description, capacity, size,price,extras,breakfast,pets,images
+          } = room;
         return (
  
-            <div>
-                test singleRoom {room.name}
-            </div>
+            <Hero hero='roomsHero'>
+                <Banner title={`${name} room`}>
+                    <Link to="/rooms" className="btn-primary">
+                        Back to rooms 
+                    </Link>
+                </Banner>
+            </Hero>
         )
     }
 }
