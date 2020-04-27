@@ -5,12 +5,12 @@ export default function RoomList({rooms}) {
     if(rooms.length === 0){
         return (
             <div className="empty-search">
-                <h3>No Such room</h3>
+                <h3>Unfortunately No Rooms Matched Your Search</h3>
             </div>
         )
     }
     return (
-        <section className="roomlist">
+        <section className="roomslist">
             <div className="roomslist-center">
                 {rooms.map(item => {
                     return <Room key={item.id} room={item} />
