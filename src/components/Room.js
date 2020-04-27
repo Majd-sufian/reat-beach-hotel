@@ -15,6 +15,7 @@ export default function Room({room}) {
                     Features
                 </Link>
             </div>
+            <p className="room-info">{name}</p>
         </article>
     )
 }
