@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/villa-beach/static/css/main.ce85eed3.chunk.css",
+    "main.js": "/villa-beach/static/js/main.37172772.chunk.js",
+    "main.js.map": "/villa-beach/static/js/main.37172772.chunk.js.map",
+    "runtime-main.js": "/villa-beach/static/js/runtime-main.c151ef32.js",
+    "runtime-main.js.map": "/villa-beach/static/js/runtime-main.c151ef32.js.map",
+    "static/js/2.1f387043.chunk.js": "/villa-beach/static/js/2.1f387043.chunk.js",
+    "static/js/2.1f387043.chunk.js.map": "/villa-beach/static/js/2.1f387043.chunk.js.map",
+    "index.html": "/villa-beach/index.html",
+    "precache-manifest.b5abf082dfd043bf8159f5cf5b1b1154.js": "/villa-beach/precache-manifest.b5abf082dfd043bf8159f5cf5b1b1154.js",
+    "service-worker.js": "/villa-beach/service-worker.js",
+    "static/css/main.ce85eed3.chunk.css.map": "/villa-beach/static/css/main.ce85eed3.chunk.css.map",
+    "static/js/2.1f387043.chunk.js.LICENSE.txt": "/villa-beach/static/js/2.1f387043.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/villa-beach/static/media/room-2.052c7681.jpeg",
+    "static/media/details-1.jpeg": "/villa-beach/static/media/details-1.33ab9f1e.jpeg",
+    "static/media/details-2.jpeg": "/villa-beach/static/media/details-2.50c23e62.jpeg",
+    "static/media/details-3.jpeg": "/villa-beach/static/media/details-3.7345b9f6.jpeg",
+    "static/media/details-4.jpeg": "/villa-beach/static/media/details-4.7569a316.jpeg",
+    "static/media/loading-arrow.gif": "/villa-beach/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/logo.svg": "/villa-beach/static/media/logo.9f0cccc1.svg",
+    "static/media/room-1.jpeg": "/villa-beach/static/media/room-1.e928a5c4.jpeg",
+    "static/media/room-10.jpeg": "/villa-beach/static/media/room-10.3b5c0871.jpeg",
+    "static/media/room-11.jpeg": "/villa-beach/static/media/room-11.f08fee37.jpeg",
+    "static/media/room-12.jpeg": "/villa-beach/static/media/room-12.0e293352.jpeg",
+    "static/media/room-3.jpeg": "/villa-beach/static/media/room-3.9a1103b5.jpeg",
+    "static/media/room-4.jpeg": "/villa-beach/static/media/room-4.1e407d88.jpeg",
+    "static/media/room-5.jpeg": "/villa-beach/static/media/room-5.a5c06e0b.jpeg",
+    "static/media/room-6.jpeg": "/villa-beach/static/media/room-6.b9a34e96.jpeg",
+    "static/media/room-7.jpeg": "/villa-beach/static/media/room-7.e251c8d5.jpeg",
+    "static/media/room-8.jpeg": "/villa-beach/static/media/room-8.ebb7fca5.jpeg",
+    "static/media/room-9.jpeg": "/villa-beach/static/media/room-9.7b17c49f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c151ef32.js",
+    "static/js/2.1f387043.chunk.js",
+    "static/css/main.ce85eed3.chunk.css",
+    "static/js/main.37172772.chunk.js"
+  ]
+}
